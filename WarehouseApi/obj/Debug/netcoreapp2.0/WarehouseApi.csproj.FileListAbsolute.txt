@@ -1,0 +1,14 @@
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseApi.deps.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseApi.runtimeconfig.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseApi.runtimeconfig.dev.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseApi.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseApi.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseRepository.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseServices.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseServices.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/bin/Debug/netcoreapp2.0/WarehouseRepository.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/obj/Debug/netcoreapp2.0/WarehouseApi.csproj.CoreCompileInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/obj/Debug/netcoreapp2.0/WarehouseApi.AssemblyInfoInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/obj/Debug/netcoreapp2.0/WarehouseApi.AssemblyInfo.cs
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/obj/Debug/netcoreapp2.0/WarehouseApi.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseApi/obj/Debug/netcoreapp2.0/WarehouseApi.pdb

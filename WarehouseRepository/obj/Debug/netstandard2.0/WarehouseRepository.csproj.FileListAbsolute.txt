@@ -1,0 +1,10 @@
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/obj/Debug/netstandard2.0/WarehouseRepository.csproj.CoreCompileInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/obj/Debug/netstandard2.0/WarehouseRepository.AssemblyInfoInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/obj/Debug/netstandard2.0/WarehouseRepository.AssemblyInfo.cs
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/bin/Debug/netstandard2.0/WarehouseRepository.deps.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/bin/Debug/netstandard2.0/WarehouseRepository.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/bin/Debug/netstandard2.0/WarehouseRepository.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/bin/Debug/netstandard2.0/WarehouseServices.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/bin/Debug/netstandard2.0/WarehouseServices.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/obj/Debug/netstandard2.0/WarehouseRepository.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepository/obj/Debug/netstandard2.0/WarehouseRepository.pdb

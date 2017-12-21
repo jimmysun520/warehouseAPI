@@ -1,0 +1,17 @@
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepositoryTests.deps.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepositoryTests.runtimeconfig.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepositoryTests.runtimeconfig.dev.json
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepositoryTests.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepositoryTests.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepository.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseServices.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseRepository.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/bin/Debug/netcoreapp2.0/WarehouseServices.pdb
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/obj/Debug/netcoreapp2.0/WarehouseRepositoryTests.csproj.CoreCompileInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/obj/Debug/netcoreapp2.0/WarehouseRepositoryTests.AssemblyInfoInputs.cache
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/obj/Debug/netcoreapp2.0/WarehouseRepositoryTests.AssemblyInfo.cs
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/obj/Debug/netcoreapp2.0/WarehouseRepositoryTests.dll
+/Users/dafu/Sites/WarehouseAPI/WarehouseRepositoryTests/obj/Debug/netcoreapp2.0/WarehouseRepositoryTests.pdb
